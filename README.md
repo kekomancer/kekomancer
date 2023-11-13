@@ -2,4 +2,12 @@
 
 "Ölümden önce yaşam."
 
-https://imgyukle.com/i/yCmcro
+### Hi there 👋, my name is Zafer
+![](https://github.com/kekomancer/kekomancer/blob/main/Kaladin.jpg)
+
+
+- 🔭 I’m currently working on this page. 
+
+
+
+

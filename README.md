@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Zafer
 
 "Ölümden önce yaşam."
 
-### Hi there 👋, my name is Zafer
+
 ![](https://github.com/kekomancer/kekomancer/blob/main/Kaladin.jpg)
 
 

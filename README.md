@@ -6,7 +6,7 @@
 ![](https://github.com/kekomancer/kekomancer/blob/main/Kaladin.jpg)
 
 
-- 🔭 I’m currently working on this page. 
+ 
 
 
 
